@@ -1,4 +1,6 @@
 import '../styles/globals.css'
+import '../styles/one-dark.css'
+
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
